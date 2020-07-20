@@ -1,4 +1,4 @@
-package com.bporcv.code;
+package com.bporcv.code.javaApi;
 
 
 import org.apache.hadoop.conf.Configuration;
